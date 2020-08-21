@@ -1,0 +1,7 @@
+/* pages/component/swiper/swiper.wxss */
+
+swiper {
+	width: 90%;
+	height: 400rpx;
+	margin: 0 auto;
+}

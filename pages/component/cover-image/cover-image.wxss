@@ -1,0 +1,24 @@
+/* pages/component/cover-image/cover-image.wxss */
+.text-title{
+	font-size: 30rpx;
+	margin: 80rpx auto;
+	display: flex;
+	width: 90%;
+	text-align: center;
+	color: #999999;
+}
+
+map{
+	width: 90%;
+	height: 350rpx;
+	margin: 30rpx auto;
+}
+
+cover-image{
+	width: 80rpx;
+	height: 80rpx;
+	position: fixed;
+	top: 400rpx;
+	left: 400rpx;
+	box-shadow: 14rpx;
+}

@@ -1,0 +1,17 @@
+<!--pages/component/scrollview/scrollview.wxml-->
+<text class="text-title">Scrolloview</text>
+<common-tap title="垂直滑动"></common-tap>
+
+<scroll-view class="mScroll" scroll-y="true">
+	<view class="green">A</view>
+	<view class="red">B</view>
+	<view class="blue">C</view>
+</scroll-view>
+
+<common-tap title="水平滑动"></common-tap>
+
+<scroll-view class="mScroll" scroll-x="true" >
+	<view class="red">A</view>
+	<view class="green">B</view>
+	<view class="blue">C</view>
+</scroll-view>

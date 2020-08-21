@@ -1,0 +1,33 @@
+/* pages/component/scrollview/scrollview.wxss */
+.mScroll {
+	width: 600rpx;
+	margin: 40rpx auto;
+	height: 340rpx;
+}
+
+.red {
+	background-color: red;
+	width: 600rpx;
+	height: 340rpx;
+	color: white;
+	line-height: 340rpx;
+	text-align: center;
+}
+
+.green {
+	background-color: green;
+	width: 600rpx;
+	height: 340rpx;
+	color: white;
+	line-height: 340rpx;
+	text-align: center;
+}
+
+.blue {
+	background-color: blue;
+	width: 600rpx;
+	height: 340rpx;
+	color: white;
+	line-height: 340rpx;
+	text-align: center;
+}

@@ -1,0 +1,2 @@
+<!--pages/component/webview/webview.wxml-->
+<web-view src="https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html"></web-view>

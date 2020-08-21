@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/component/component",
+    "pages/api/api",
+    "pages/component/cover-image/cover-image",
+    "pages/component/view/view",
+    "pages/component/swiper/swiper",
+    "pages/component/webview/webview",
+    "pages/component/scrollview/scrollview",
+    "pages/component/movable-view/movable-view"
+  ],
+  "entryPagePath": "pages/component/movable-view/movable-view",
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "readMe":"全局配置文件，介绍： https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html"
+}
+
+

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "common-tap": "../../../componet/common-tap/common-tap"
+  }
+}

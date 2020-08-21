@@ -1,0 +1,5 @@
+<!--componet/common-tap/common-tap.wxml-->
+<view class="box">
+	<image src="../../static/icon-tap.png" class="img-tap"></image>
+	<text class="text-tap">{{title}}</text>
+</view>

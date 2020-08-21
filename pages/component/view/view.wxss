@@ -1,0 +1,41 @@
+/* pages/component/view/view.wxss */
+
+.view-box {
+	justify-content: center;
+	margin: 20rpx auto;
+	width: 360rpx;
+}
+
+.red {
+	background-color: red;
+	width: 120rpx;
+	height: 120rpx;
+	margin: 0 auto;
+	color: white;
+	line-height: 120rpx;
+	text-align: center;
+}
+
+.green {
+	background-color: green;
+	width: 120rpx;
+	height: 120rpx;
+	margin: 0 auto;
+	color: white;
+	line-height: 120rpx;
+	text-align: center;
+}
+
+.blue {
+	background-color: blue;
+	width: 120rpx;
+	height: 120rpx;
+	margin: 0 auto;
+	color: white;
+	line-height: 120rpx;
+	text-align: center;
+}
+
+.hover{
+	background-color: gray;
+}

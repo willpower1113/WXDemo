@@ -1,0 +1,17 @@
+/* componet/common-tap/common-tap.wxss */
+.box{
+	display: block;
+	margin-top: 50rpx;
+}
+
+.img-tap{
+	width: 35rpx;
+	height: 35rpx;
+	margin-left: 20rpx;
+  }
+  
+  .text-tap{
+	font-size: 35rpx;
+	color: #555555;
+	margin-left: 20rpx;
+  }

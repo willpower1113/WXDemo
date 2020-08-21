@@ -1,0 +1,18 @@
+<!--pages/component/view/view.wxml-->
+<text class="text-title">视图容器</text>
+
+<common-tap title="flex-row"></common-tap>
+
+<view class="view-box flex-row" style="margin-top:20rpx">
+	<view class="red" hover-class="hover">A</view>
+	<view class="green" hover-class="hover">B</view>
+	<view class="blue" hover-class="hover">C</view>
+</view>
+
+<common-tap title="flex-column"></common-tap>
+
+<view class="view-box flex-column" style="margin-top:20rpx">
+	<view class="red" hover-class="hover">A</view>
+	<view class="green" hover-class="hover">B</view>
+	<view class="blue" hover-class="hover">C</view>
+</view>

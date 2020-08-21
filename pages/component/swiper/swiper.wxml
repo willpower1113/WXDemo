@@ -1,0 +1,14 @@
+<!--pages/component/swiper/swiper.wxml-->
+<text class="text-title"> swiper 滑块视图容器。其中只可放置swiper-item组件，否则会导致未定义的行为 </text>
+
+<swiper indicator-dots="true" indicator-color="white" display-multiple-items="2">
+	<swiper-item style="background-color:red"></swiper-item>
+	<swiper-item style="background-color:green"></swiper-item>
+	<swiper-item style="background-color:blue"></swiper-item>
+	<swiper-item style="background-color:red"></swiper-item>
+	<swiper-item style="background-color:green"></swiper-item>
+	<swiper-item style="background-color:blue"></swiper-item>
+	<swiper-item style="background-color:red"></swiper-item>
+	<swiper-item style="background-color:green"></swiper-item>
+	<swiper-item style="background-color:blue"></swiper-item>
+</swiper>
